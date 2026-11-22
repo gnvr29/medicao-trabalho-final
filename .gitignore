@@ -1,0 +1,6 @@
+# Contém links de edição dos formulários e planilhas (uso interno do grupo)
+guia_operacional*.md
+.DS_Store
+.venv
+.venv/
+__pycache__/
